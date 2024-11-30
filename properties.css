@@ -1,0 +1,59 @@
+body {
+    background-image: url(samurai.jpeg);
+    background-attachment: fixed; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  } 
+
+.gg {
+    color:antiquewhite;
+    font-size: 100px;
+    text-align: center;
+}
+.gg2 {
+    color:antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
+.gg2:hover{
+    background-color: coral;
+}
+.gg3{
+    color: burlywood;
+    font-size: 30px;
+    text-align: center;
+    background-color: brown;
+}
+.gg4{
+    color:antiquewhite;
+    text-decoration: none;
+    font-weight: bold;
+}
+.gg5{
+    color:antiquewhite;
+    text-decoration: none;
+    font-weight: bold;
+}
+.gg6{
+    color:brown;
+    font-size: 30px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.gg7{
+    background-color: antiquewhite;
+}
+.gg8{
+    float: right;
+    margin: auto;
+}
+.gg9{
+    background-color: brown;
+}
+.gg10{
+    color:rgb(249, 114, 69);
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(243, 232, 221);
+}
